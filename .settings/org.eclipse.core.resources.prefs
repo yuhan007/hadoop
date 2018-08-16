@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/log4j.properties=UTF-8
+encoding//src/main/java=UTF-8
+encoding//src/main/java/com/github/distribute/queue/DistributedQueue.java=UTF-8
+encoding//src/main/java/com/github/distribute/queue/DistributedSimpleQueue.java=UTF-8
+encoding//src/test/java=UTF-8
